@@ -79,10 +79,10 @@ Note how the stem of the verb **ехать** is **ед-**. *Verb conjugations ca
   </tr>
   <tr>
     <td>я пиш<b>у́</b></td>
-    <td>мы пи́́ш<b>ем</b></td>
+    <td>мы пи́ш<b>ем</b></td>
   </tr>
   <tr>
-    <td>ты пи́́ш<b>ешь</b></td>
+    <td>ты пи́ш<b>ешь</b></td>
     <td>вы пи́ш<b>ете</b></td>
   </tr>
   <tr>
