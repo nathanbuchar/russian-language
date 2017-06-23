@@ -145,7 +145,7 @@ The consonant at the end of the stem may change, but only in the **я** form (se
 
 <table>
   <tr>
-    <td colspan="2"><b>Учиться (Уч-)</b> – To study</td>
+    <td colspan="2"><b>Учиться (уч-)</b> – To study</td>
   </tr>
   <tr>
     <td>я уч<b>у́сь</b></td>
@@ -163,7 +163,7 @@ The consonant at the end of the stem may change, but only in the **я** form (se
 
 <table>
   <tr>
-    <td colspan="2"><b>Видеть (Вид-)</b> – To see</td>
+    <td colspan="2"><b>Видеть (вид-)</b> – To see</td>
   </tr>
   <tr>
     <td>я ви́<b>жу</b></td>
