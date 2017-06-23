@@ -79,7 +79,7 @@ Note how the stem of the verb **ехать** is **ед-**. *Verb conjugations ca
   </tr>
   <tr>
     <td>я пиш<b>у́</b></td>
-    <td>мы пи́ш<b>ем</b></td>
+    <td>мы пи́́ш<b>ем</b></td>
   </tr>
   <tr>
     <td>ты пи́́ш<b>ешь</b></td>
@@ -148,16 +148,16 @@ The consonant at the end of the stem may change, but only in the **я** form (se
     <td colspan="2"><b>Учиться (Уч-)</b> – To study</td>
   </tr>
   <tr>
-    <td>я Уч<b>у́сь</b></td>
-    <td>мы У́ч<b>имся</b></td>
+    <td>я уч<b>у́сь</b></td>
+    <td>мы у́ч<b>имся</b></td>
   </tr>
   <tr>
-    <td>ты У́ч<b>ишься</b></td>
-    <td>вы У́ч<b>итесь</b</td>
+    <td>ты у́ч<b>ишься</b></td>
+    <td>вы у́ч<b>итесь</b</td>
   </tr>
   <tr>
-    <td>он У́ч<b>ится</b></td>
-    <td>они У́ч<b>атся</b></td>
+    <td>он у́ч<b>ится</b></td>
+    <td>они у́ч<b>атся</b></td>
   </tr>
 </table>
 
@@ -166,15 +166,15 @@ The consonant at the end of the stem may change, but only in the **я** form (se
     <td colspan="2"><b>Видеть (Вид-)</b> – To see</td>
   </tr>
   <tr>
-    <td>я Ви́д<b>жу</b></td>
-    <td>мы Ви́д<b>им</b></td>
+    <td>я ви́<b>жу</b></td>
+    <td>мы ви́д<b>им</b></td>
   </tr>
   <tr>
-    <td>ты Ви́д<b>ишь</b></td>
-    <td>вы Ви́д<b>ите</b</td>
+    <td>ты ви́д<b>ишь</b></td>
+    <td>вы ви́д<b>ите</b</td>
   </tr>
   <tr>
-    <td>он Ви́д<b>ит</b></td>
-    <td>они Ви́д<b>ят</b></td>
+    <td>он ви́д<b>ит</b></td>
+    <td>они ви́д<b>ят</b></td>
   </tr>
 </table>
