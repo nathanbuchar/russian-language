@@ -1,12 +1,20 @@
-# Russian Verb Conjugation
+# Verb Conjugation
 
-## Type 1 (е/ё-conjugation)
+**Contents**
 
-### Pattern 1
+* [Type 1](#type-1)
+  * [Type 1B](#type-1b)
+* [Type 2](#type-2)
 
-When the verb stem ends in a vowel, we use **ю** for the **я** and **они** forms.
 
-**Examples:**
+***
+
+
+## Type 1
+
+Known as the **е/ё-conjugation**.
+
+**Examples**
 
 <table>
   <tr>
@@ -45,15 +53,15 @@ When the verb stem ends in a vowel, we use **ю** for the **я** and **они** 
 </table>
 
 
-### Pattern 2
+### Type 1B
 
-Like pattern 1, but if the verb stem ends in a consonant, we use **у** instead of **ю** in the **я** and **они** forms.
+Like the forms above, but if the verb stem ends in a consonant, we use **у** instead of **ю** in the **я** and **они** forms.
 
 For all conjugations except for **я**, the stress is placed one syllable back from the last syllable. For the **я** form, the stress is placed on the last syllable.
 
 Note how the stem of the verb **ехать** is **ед-**. *Verb conjugations cannot reliably be predicted by the infinitive.*
 
-**Examples:**
+**Examples**
 
 <table>
   <tr>
@@ -91,12 +99,9 @@ Note how the stem of the verb **ехать** is **ед-**. *Verb conjugations ca
   </tr>
 </table>
 
+However, if the last syllable is stressed, we use **ё** instead **е**. The letter **ё** is always stressed.
 
-### Pattern 3
-
-Like pattern 2, but if the last syllable is stressed, we use **ё** instead **е**. The letter **ё** is always stressed.
-
-**Examples:**
+**Example**
 
 <table>
   <tr>
@@ -117,13 +122,15 @@ Like pattern 2, but if the last syllable is stressed, we use **ё** instead **е
 </table>
 
 
-## Type 2 (и-conjugation)
+## Type 2
+
+Known as the **и-conjugation**.
 
 Like type 1, but uses **и** instead of **е** in the **ты**, **он**, **мы**, and **вы** forms. Additionally, the **они** conjugation changes from **ют** to **ят**. Be aware of Russian spelling rules (see **учиться**)!
 
 The consonant at the end of the stem may change, but only in the **я** form (see **видеть**).
 
-**Examples:**
+**Examples**
 
 <table>
   <tr>
