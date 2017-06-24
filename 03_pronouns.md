@@ -1,4 +1,4 @@
-# Russian Personal Pronouns
+# Personal Pronouns
 
 |    | Singular | Plural |
 | :- | :------- | :----- |
