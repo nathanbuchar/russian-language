@@ -10,234 +10,234 @@
   </tr>
   <tr>
     <td>Aa</td>
-    <td>a<br/><i>[a]</i></td>
+    <td>a<br/>[a]</td>
     <td>a</td>
     <td>f<b>a</b>ther</td>
-    <td>дв<b>а</b><br/><i>[dva]</i></td>
+    <td>дв<b>а</b><br/>[dva]</td>
   </tr>
   <tr>
     <td>Бб</td>
-    <td>бэ<br/><i>[be]</i></td>
+    <td>бэ<br/>[be]</td>
     <td>b</td>
     <td><b>b</b>ad</td>
-    <td>о<b>б</b>а<br/><i>[óba]</i></td>
+    <td>о<b>б</b>а<br/>[óba]</td>
   </tr>
   <tr>
     <td>Вв</td>
-    <td>вэ<br/><i>[ve]</i></td>
+    <td>вэ<br/>[ve]</td>
     <td>v</td>
     <td><b>v</b>ine</td>
-    <td><b>в</b>от<br/><i>[vot]</i></td>
+    <td><b>в</b>от<br/>[vot]</td>
   </tr>
   <tr>
     <td>Гг</td>
-    <td>гэ<br/><i>[ge]</i></td>
+    <td>гэ<br/>[ge]</td>
     <td>g</td>
     <td><b>g</b>o</td>
-    <td><b>г</b>од<br/><i>[got]</i></td>
+    <td><b>г</b>од<br/>[got]</td>
   </tr>
   <tr>
     <td>Дд</td>
-    <td>дэ<br/><i>[de]</i></td>
+    <td>дэ<br/>[de]</td>
     <td>d</td>
     <td><b>d</b>o</td>
-    <td><b>д</b>а<br/><i>[da]</i></td>
+    <td><b>д</b>а<br/>[da]</td>
   </tr>
   <tr>
     <td>Ее</td>
-    <td>е<br/><i>[ye]</i></td>
+    <td>е<br/>[ye]</td>
     <td>e</td>
     <td><b>ye</b>s</td>
-    <td>н<b>е</b><br/><i>[ne]</i></td>
+    <td>н<b>е</b><br/>[ne]</td>
   </tr>
   <tr>
     <td>Ёё</td>
-    <td>ё<br/><i>[yo]</i></td>
+    <td>ё<br/>[yo]</td>
     <td>ё<sup>†</sup></td>
     <td><b>yo</b>lk</td>
-    <td><b>ё</b>ж<br/><i>[yozh]</i></td>
+    <td><b>ё</b>ж<br/>[yozh]</td>
   </tr>
   <tr>
     <td>Жж</td>
-    <td>жэ<br/><i>[zhe]</i></td>
+    <td>жэ<br/>[zhe]</td>
     <td>zh</td>
     <td>plea<b>s</b>ure</td>
-    <td><b>ж</b>ук<br/><i>[zhook]</i></td>
+    <td><b>ж</b>ук<br/>[zhook]</td>
   </tr>
   <tr>
     <td>Зз</td>
-    <td>зэ<br/><i>[ze]</i></td>
+    <td>зэ<br/>[ze]</td>
     <td>z</td>
     <td><b>z</b>oo</td>
-    <td><b>з</b>ной<br/><i>[znoy]</i></td>
+    <td><b>з</b>ной<br/>[znoy]</td>
   </tr>
   <tr>
     <td>Ии</td>
-    <td>и<br/><i>[ee]</i></td>
+    <td>и<br/>[ee]</td>
     <td>i<sup>†</sup></td>
     <td>m<b>e</b></td>
-    <td><b>и</b>л<b>и</b><br/><i>[ili]</i></td>
+    <td><b>и</b>л<b>и</b><br/>[ili]</td>
   </tr>
   <tr>
     <td>Йй</td>
-    <td>и краткое<br/><i>[ee krát-ka-ye]</i><br/>('short ee')</td>
+    <td>и краткое<br/>[ee krát-ka-ye]<br/>('short ee')</td>
     <td>i<sup>†</sup></td>
     <td>to<b>y</b></td>
-    <td>мо<b>й</b><br/><i>[moy]</i></td>
+    <td>мо<b>й</b><br/>[moy]</td>
   </tr>
   <tr>
     <td>Кк</td>
-    <td>ка<br/><i>[ka]</i></td>
+    <td>ка<br/>[ka]</td>
     <td>k</td>
     <td><b>k</b>iss</td>
-    <td><b>к</b>то<br/><i>[kto]</i></td>
+    <td><b>к</b>то<br/>[kto]</td>
   </tr>
   <tr>
     <td>Лл</td>
-    <td>эл<br/><i>[el]</i></td>
+    <td>эл<br/>[el]</td>
     <td>l</td>
     <td><b>l</b>amp</td>
-    <td><b>л</b>и<br/><i>[li]</i></td>
+    <td><b>л</b>и<br/>[li]</td>
   </tr>
   <tr>
     <td>Мм</td>
-    <td>эм<br/><i>[em]</i></td>
+    <td>эм<br/>[em]</td>
     <td>m</td>
     <td><b>m</b>ap</td>
-    <td><b>м</b>еч<br/><i>[mech]</i></td>
+    <td><b>м</b>еч<br/>[mech]</td>
   </tr>
   <tr>
     <td>Нн</td>
-    <td>эн<br/><i>[en]</i></td>
+    <td>эн<br/>[en]</td>
     <td>n</td>
     <td><b>n</b>ot</td>
-    <td><b>н</b>о<br/><i>[no]</i></td>
+    <td><b>н</b>о<br/>[no]</td>
   </tr>
   <tr>
     <td>Оо</td>
-    <td>о<br/><i>[o]</i></td>
+    <td>о<br/>[o]</td>
     <td>o</td>
     <td>m<b>o</b>re</td>
-    <td><b>о</b>н<br/><i>[on]</i></td>
+    <td><b>о</b>н<br/>[on]</td>
   </tr>
   <tr>
     <td>Пп</td>
-    <td>пэ<br/><i>[pe]</i></td>
+    <td>пэ<br/>[pe]</td>
     <td>p</td>
     <td><b>p</b>et</td>
-    <td><b>п</b>од<br/><i>[pot]</i></td>
+    <td><b>п</b>од<br/>[pot]</td>
   </tr>
   <tr>
     <td>Рр</td>
-    <td>эр<br/><i>[er]</i></td>
+    <td>эр<br/>[er]</td>
     <td>r</td>
     <td><i>Rolled r</i></td>
-    <td><b>р</b>ека<br/><i>[reka]</i></td>
+    <td><b>р</b>ека<br/>[reka]</td>
   </tr>
   <tr>
     <td>Сс</td>
-    <td>эс<br/><i>[es]</i></td>
+    <td>эс<br/>[es]</td>
     <td>s</td>
     <td><b>s</b>ee</td>
-    <td>е<b>с</b>ли<br/><i>[yesli]</i></td>
+    <td>е<b>с</b>ли<br/>[yesli]</td>
   </tr>
   <tr>
     <td>Тт</td>
-    <td>тэ<br/><i>[te]</i></td>
+    <td>тэ<br/>[te]</td>
     <td>t</td>
     <td><b>t</b>ool</td>
-    <td><b>т</b>о<b>т</b><br/><i>[tot]</i></td>
+    <td><b>т</b>о<b>т</b><br/>[tot]</td>
   </tr>
   <tr>
     <td>Уу</td>
-    <td>у<br/><i>[oo]</i></td>
+    <td>у<br/>[oo]</td>
     <td>u<sup>†</sup></td>
     <td>b<b>oo</b>t</td>
-    <td><b>у</b>же<br/><i>[oozhe]</i></td>
+    <td><b>у</b>же<br/>[oozhe]</td>
   </tr>
   <tr>
     <td>Фф</td>
-    <td>эф<br/><i>[ef]</i></td>
+    <td>эф<br/>[ef]</td>
     <td>f</td>
     <td><b>f</b>ace</td>
-    <td><b>ф</b>орма<br/><i>[forma]</i></td>
+    <td><b>ф</b>орма<br/>[forma]</td>
   </tr>
   <tr>
     <td>Хх</td>
-    <td>ха<br/><i>[ha]</i></td>
+    <td>ха<br/>[ha]</td>
     <td>kh<sup>†</sup></td>
     <td>lo<b>ch</b></td>
-    <td>ду<b>х</b><br/><i>[dookh]</i></td>
+    <td>ду<b>х</b><br/>[dookh]</td>
   </tr>
   <tr>
     <td>Цц</td>
-    <td>цэ<br/><i>[tsa]</i></td>
+    <td>цэ<br/>[tsa]</td>
     <td>ts</td>
     <td>si<b>ts</b></td>
-    <td>коне<b>ц</b><br/><i>[konets]</i></td>
+    <td>коне<b>ц</b><br/>[konets]</td>
   </tr>
   <tr>
     <td>Чч</td>
-    <td>че<br/><i>[che]</i></td>
+    <td>че<br/>[che]</td>
     <td>ch</td>
     <td><b>ch</b>ip</td>
-    <td><b>ч</b>ас<br/><i>[chas]</i></td>
+    <td><b>ч</b>ас<br/>[chas]</td>
   </tr>
   <tr>
     <td>Шш</td>
-    <td>ша<br/><i>[sha]</i></td>
+    <td>ша<br/>[sha]</td>
     <td>sh</td>
     <td><b>sh</b>arp</td>
-    <td>ва<b>ш</b><br/><i>[vash]</i></td>
+    <td>ва<b>ш</b><br/>[vash]</td>
   </tr>
   <tr>
     <td>Щщ</td>
-    <td>Ща<br/><i>[shsha]</i></td>
+    <td>Ща<br/>[shsha]</td>
     <td>shch<sup>†</sup></td>
     <td><b>sh</b>eer</td>
-    <td><b>щ</b>ека<br/><i>[shcheka]</i></td>
+    <td><b>щ</b>ека<br/>[shcheka]</td>
   </tr>
   <tr>
     <td>Ъъ</td>
-    <td>твёрдый знак<br/><i>[tvyór-di znak]</i><br/>('hard sign')</td>
+    <td>твёрдый знак<br/>[tvyór-di znak]<br/>('hard sign')</td>
     <td>"<sup>†</sup></td>
     <td><i>Hard sign<sup>††</sup></i></td>
-    <td>об<b>ъ</b>ект<br/><i>[obyekt]</i></td>
+    <td>об<b>ъ</b>ект<br/>[obyekt]</td>
   </tr>
   <tr>
     <td>Ыы</td>
-    <td>ы<br/><i>[i]</i></td>
+    <td>ы<br/>[i]</td>
     <td>y<sup>†</sup></td>
     <td>ros<b>e</b>s</td>
-    <td>т<b>ы</b><br/><i>[ti]</i></td>
+    <td>т<b>ы</b><br/>[ti]</td>
   </tr>
   <tr>
     <td>Ьь</td>
-    <td>мягкий знак<br/><i>[myáh-kee znak]</i><br/>('soft sign')</td>
+    <td>мягкий знак<br/>[myáh-kee znak]<br/>('soft sign')</td>
     <td>'<sup>†</sup></td>
     <td><i>Soft sign<sup>†††</sup></i></td>
-    <td>вес<b>ь</b><br/><i>[vyes]</i></td>
+    <td>вес<b>ь</b><br/>[vyes]</td>
   </tr>
   <tr>
     <td>Ээ</td>
-    <td>э<br/><i>[e]</i></td>
+    <td>э<br/>[e]</td>
     <td>e</td>
     <td>m<b>e</b>t</td>
-    <td><b>э</b>то<br/><i>[eto]</i></td>
+    <td><b>э</b>то<br/>[eto]</td>
   </tr>
   <tr>
     <td>Юю</td>
-    <td>ю<br/><i>[yoo]</i></td>
+    <td>ю<br/>[yoo]</td>
     <td>iu<sup>†</sup></td>
     <td><b>u</b>se</td>
-    <td><b>ю</b>г<br/><i>[yook]</i></td>
+    <td><b>ю</b>г<br/>[yook]</td>
   </tr>
   <tr>
     <td>Яя</td>
-    <td>я<br/><i>[ya]</i></td>
+    <td>я<br/>[ya]</td>
     <td>ia<sup>†</sup></td>
     <td><b>ya</b>rd</td>
-    <td>р<b>я</b>д<br/><i>[ryat]</i></td>
+    <td>р<b>я</b>д<br/>[ryat]</td>
   </tr>
 </table>
 
