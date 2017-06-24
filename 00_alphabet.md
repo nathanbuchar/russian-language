@@ -1,12 +1,12 @@
-# Russian Alphabet (азбука)
+# Russian Alphabet
 
 <table>
   <tr>
     <th>Letter</th>
     <th>Name</th>
     <th>Transliteration</th>
-    <th>English Example(s)</th>
-    <th>Russian Example(s)</th>
+    <th>English Example</th>
+    <th>Russian Example</th>
   </tr>
   <tr>
     <td>Aa</td>
@@ -53,7 +53,7 @@
   <tr>
     <td>Ёё</td>
     <td>ё<br/>[yo]</td>
-    <td>ё&ast;</td>
+    <td>ё<sup>†</sup></td>
     <td><b>yo</b>lk</td>
     <td><b>ё</b>ж<br/><i>[yozh]</i></td>
   </tr>
@@ -61,7 +61,7 @@
     <td>Жж</td>
     <td>жэ<br/>[zhe]</td>
     <td>zh</td>
-    <td>plea<b>s</b>ure, <b>g</b>enre</td>
+    <td>plea<b>s</b>ure</td>
     <td><b>ж</b>ук<br/><i>[zhook]</i></td>
   </tr>
   <tr>
@@ -74,14 +74,14 @@
   <tr>
     <td>Ии</td>
     <td>и<br/>[ee]</td>
-    <td>i&ast;</td>
+    <td>i<sup>†</sup></td>
     <td>m<b>e</b></td>
     <td><b>и</b>л<b>и</b><br/><i>[ili]</i></td>
   </tr>
   <tr>
     <td>Йй</td>
-    <td>и краткое<br/>[ee krát-ka-ye]<br/>('short ee')</td>
-    <td>i&ast;</td>
+    <td>и краткое<br/>[ee krát-ka-ye]</td>
+    <td>i<sup>†</sup></td>
     <td>to<b>y</b></td>
     <td>мо<b>й</b><br/><i>[moy]</i></td>
   </tr>
@@ -151,7 +151,7 @@
   <tr>
     <td>Уу</td>
     <td>у<br/>[oo]</td>
-    <td>u&ast;</td>
+    <td>u<sup>†</sup></td>
     <td>b<b>oo</b>t</td>
     <td><b>у</b>же<br/><i>[oozhe]</i></td>
   </tr>
@@ -165,7 +165,7 @@
   <tr>
     <td>Хх</td>
     <td>ха<br/>[ha]</td>
-    <td>kh&ast;</td>
+    <td>kh<sup>†</sup></td>
     <td>lo<b>ch</b></td>
     <td>ду<b>х</b><br/><i>[dookh]</i></td>
   </tr>
@@ -193,29 +193,29 @@
   <tr>
     <td>Щщ</td>
     <td>Ща<br/>[shsha]</td>
-    <td>shch&ast;</td>
+    <td>shch<sup>†</sup></td>
     <td><b>sh</b>eer</td>
     <td><b>щ</b>ека<br/><i>[shcheka]</i></td>
   </tr>
   <tr>
     <td>Ъъ</td>
-    <td>твёрдый знак<br/>[tvyór-di znak]<br/>('hard sign')</td>
-    <td>"&ast;</td>
-    <td><i>Silent; prevents palatalization of the preceding consonant</i></td>
+    <td>твёрдый знак<br/>[tvyór-di znak]</td>
+    <td>"<sup>†</sup></td>
+    <td><i>Hard sign<sup>††</sup></i></td>
     <td>об<b>ъ</b>ект<br/><i>[obyekt]</i></td>
   </tr>
   <tr>
     <td>Ыы</td>
     <td>ы<br/>[i]</td>
-    <td>y&ast;</td>
+    <td>y<sup>†</sup></td>
     <td>ros<b>e</b>s</td>
     <td>т<b>ы</b><br/><i>[ti]</i></td>
   </tr>
   <tr>
     <td>Ьь</td>
-    <td>мягкий знак<br/>[myáh-kee znak]<br/>('soft sign')</td>
-    <td>'&ast;</td>
-    <td><i>Silent; palatalizes the preceding consonant (if it is phonologically possible)</i></td>
+    <td>мягкий знак<br/>[myáh-kee znak]</td>
+    <td>'<sup>†</sup></td>
+    <td><i>Soft sign<sup>†††</sup></i></td>
     <td>вес<b>ь</b><br/><i>[vyes]</i></td>
   </tr>
   <tr>
@@ -228,17 +228,21 @@
   <tr>
     <td>Юю</td>
     <td>ю<br/>[yoo]</td>
-    <td>iu&ast;</td>
+    <td>iu<sup>†</sup></td>
     <td><b>u</b>se</td>
     <td><b>ю</b>г<br/><i>[yook]</i></td>
   </tr>
   <tr>
     <td>Яя</td>
     <td>я<br/>[ya]</td>
-    <td>ia&ast;</td>
+    <td>ia<sup>†</sup></td>
     <td><b>ya</b>rd</td>
     <td>р<b>я</b>д<br/><i>[ryat]</i></td>
   </tr>
 </table>
 
-\* Indicates a transliteration that is either not obvious or which is transliterated differently in other systems.
+<sup>†</sup> Indicates a transliteration that is either not obvious or which is transliterated differently in other systems.
+
+<sup>††</sup> Silent; prevents palatalization of the preceding consonant.
+
+<sup>†††</sup> Silent; palatalizes the preceding consonant (if it is phonologically possible).
