@@ -171,7 +171,7 @@
   </tr>
   <tr>
     <td>Цц</td>
-    <td>цэ<br/>[tsa]</td>
+    <td>цэ<br/>[tse]</td>
     <td>ts</td>
     <td>si<b>ts</b></td>
     <td>коне<b>ц</b><br/>[konets]</td>
