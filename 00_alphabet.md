@@ -1,37 +1,244 @@
-# Russian Alphabet
+# Russian Alphabet (азбука)
 
-| Letter | Name         | IPA                | English Example         | Russian Example                |
-| :----: | :----------- | :----------------- | :---------------------- | :----------------------------- |
-| Aa     | a<br/>[a]    | /a/                | f**a**ther              | дв**а** *dva*<br/>"two"        |
-| Бб     | бэ<br/>[bɛ]  | /b/ or /bʲ/        | **b**ad                 | о**б**а *óba*<br/>"both"       |
-| Вв     | вэ<br/>[vɛ]  | /v/ or /vʲ/        | **v**ine                | **в**от *vot*<br/>"here"       |
-| Гг     | гэ<br/>[ɡɛ]  |	/ɡ/ or /gʲ/        | **g**o                  | **г**од *god*<br/>"year"       |
-| Дд     | дэ<br/>[dɛ]  | /d/ or /dʲ/        | **d**o                  | **д**а *da*<br/>"yes"          |
-| Ее     | е<br/>[je]   | /je/, /ʲe/ or /e/  | **ye**s                 | н**е** *ne*<br/>"not"          |
-| Ёё     | ё<br/>[jo]   | /jo/ or /ʲɵ/       | **yo**lk                | **ё**ж *yozh*<br/>"hedgehog"   |
-| Жж     | жэ<br/>[ʐɛ]  | /ʐ/                | plea**s**ure, **g**enre | **ж**ук *zhuk*<br/>"beetle"    |
-| Зз     | зэ<br/>[zɛ]  | /z/ or /zʲ/        | **z**oo                 | **з**ной *znoy*<br/>"heat"     |
-| Ии     | и<br/>[i]    | /i/, /ʲi/, or /ɨ/  | m**e**                  | **и**л**и** *íli*<br/>"or"     |
-| Йй     | и краткое<br/>[i ˈkratkəjɪ] | /j/ | to**y**                 | мо**й** *moy*<br/>"my, mine"   |
-| Кк     | ка<br/>[ka] | /k/ or /kʲ/         | **k**iss                | **к**то *kto*<br/>"who"        |
-| Лл     | эл or эль<br/>[ɛl] or [ɛlʲ] | /l/ or /lʲ/ | **l**amp        | **л**и *li*<br/>"whether"      |
-| Мм     | эм<br/>[ɛm]  | /m/ or /mʲ/        | **m**ap                 | **м**еч *mech*<br/>"sword"     |
-| Нн     | эн<br/>[ɛn]  | /n/ or /ɲ/         | **n**ot                 | **н**о *no*<br/>"but"          |
-| Оо     | о<br/>[о]    | /o/ or /ɐ/         | m**o**re                | **о**н *on*<br/>"he"           |
-| Пп     | пэ<br/>[pɛ]  | /p/ or /pʲ/        | **p**et                 | **п**од *pod*<br/>"under"      |
-| Рр     | эр<br/>[ɛr]  | /r/ or /rʲ/        | rolled r                | **р**ека *reká*<br/>"river"    |
-| Cc     | эс<br/>[ɛs]  | /s/ or /sʲ/        | **s**ee                 | е**с**ли yésli<br/>"if"        |
-| Тт     | тэ<br/>[tɛ]  | /t/ or /tʲ/        | **t**ool                | **т**о**т** *tot*<br/>"that"   |
-| Уу     | у<br/>[u]    | /u/                | b**oo**t                | **у**же *uzhé*<br/>"already"   |
-| Фф     | эф<br/>[ɛf]  | /f/ or /fʲ/        | **f**ace                | **ф**орма *fórma*<br/>"form"   |
-| Хх     | ха<br/>[xa]  | /x/ or /xʲ/        | lo**ch**                | ду**х** *dukh*<br/>"spirit"    |
-| Цц     | цэ<br/>[tsɛ] | /t͡s/               | si**ts**                | коне**ц** *konéts*<br/>"end"   |
-| Чч     | че<br/>[tɕe] | /t͡ɕ/               | **ch**ip                | **ч**ас *chas*<br/>"hour"      |
-| Шш     | ша<br/>[ʂa]  | /ʂ/                | **sh**arp               | ва**ш** *vash*<br/>"yours"     |
-| Щщ     | ща<br/>[ɕɕæ] | /ɕɕ/               | **sh**eer               | **щ**ека *shcheká*<br/>"cheek" |
-| Ъъ     | твёрдый знак<br/>[ˈtvʲɵrdɨj znak] | | (called "hard sign") silent, prevents palatalization of the preceding consonant | об**ъ**ект *obyékt*<br/>"object" |
-| Ыы     | ы<br/>[ɨ]    | [ɨ]                | ros**e**s, h**i**t      | т**ы** *ty*<br/>"you"          |
-| Ьь     | мягкий знак<br/>[ˈmʲæxʲkʲɪj znak] | /ʲ/ | (called "soft sign") silent, palatalizes the preceding consonant (if it is phonologically possible) | вес**ь** *vyes'*<br/>"all" |
-| Ээ     | э<br/>[ɛ]    | /e/                | m**e**t                 | **э**то *éto*<br/>"this, that" |
-| Юю     | ю<br/>[ju]   | /ju/ or /ʲu/       | **u**se                 | **ю**г *yug*<br/>"south"       |
-| Яя     | я<br/>[ja]   | /ja/ or /ʲa/       | **ya**rd                | р**я**д *ryad*<br/>"row"       |
+<table>
+  <tr>
+    <th>Letter</th>
+    <th>Name</th>
+    <th>Transliteration</th>
+    <th>English Example(s)</th>
+    <th>Russian Example(s)</th>
+  </tr>
+  <tr>
+    <td>Aa</td>
+    <td>a<br/>[a]</td>
+    <td>a</td>
+    <td>f<b>a</b>ther</td>
+    <td>дв<b>а</b><br/><i>[dva]</i></td>
+  </tr>
+  <tr>
+    <td>Бб</td>
+    <td>бэ<br/>[be]</td>
+    <td>b</td>
+    <td><b>b</b>ad</td>
+    <td>о<b>б</b>а<br/><i>[óba]</i></td>
+  </tr>
+  <tr>
+    <td>Вв</td>
+    <td>вэ<br/>[ve]</td>
+    <td>v</td>
+    <td><b>v</b>ine</td>
+    <td><b>в</b>от<br/><i>[vot]</i></td>
+  </tr>
+  <tr>
+    <td>Гг</td>
+    <td>гэ<br/>[ge]</td>
+    <td>g</td>
+    <td><b>g</b>o</td>
+    <td><b>г</b>од<br/><i>[got]</i></td>
+  </tr>
+  <tr>
+    <td>Дд</td>
+    <td>дэ<br/>[de]</td>
+    <td>d</td>
+    <td><b>d</b>o</td>
+    <td><b>д</b>а<br/><i>[da]</i></td>
+  </tr>
+  <tr>
+    <td>Ее</td>
+    <td>е<br/>[ye]</td>
+    <td>e</td>
+    <td><b>ye</b>s</td>
+    <td>н<b>е</b><br/><i>[ne]</i></td>
+  </tr>
+  <tr>
+    <td>Ёё</td>
+    <td>ё<br/>[yo]</td>
+    <td>ё&ast;</td>
+    <td><b>yo</b>lk</td>
+    <td><b>ё</b>ж<br/><i>[yozh]</i></td>
+  </tr>
+  <tr>
+    <td>Жж</td>
+    <td>жэ<br/>[zhe]</td>
+    <td>zh</td>
+    <td>plea<b>s</b>ure, <b>g</b>enre</td>
+    <td><b>ж</b>ук<br/><i>[zhook]</i></td>
+  </tr>
+  <tr>
+    <td>Зз</td>
+    <td>зэ<br/>[ze]</td>
+    <td>z</td>
+    <td><b>z</b>oo</td>
+    <td><b>з</b>ной<br/><i>[znoy]</i></td>
+  </tr>
+  <tr>
+    <td>Ии</td>
+    <td>и<br/>[ee]</td>
+    <td>i&ast;</td>
+    <td>m<b>e</b></td>
+    <td><b>и</b>л<b>и</b><br/><i>[ili]</i></td>
+  </tr>
+  <tr>
+    <td>Йй</td>
+    <td>и краткое<br/>[ee krát-ka-ye]<br/>('short ee')</td>
+    <td>i&ast;</td>
+    <td>to<b>y</b></td>
+    <td>мо<b>й</b><br/><i>[moy]</i></td>
+  </tr>
+  <tr>
+    <td>Кк</td>
+    <td>ка<br/>[ka]</td>
+    <td>k</td>
+    <td><b>k</b>iss</td>
+    <td><b>к</b>то<br/><i>[kto]</i></td>
+  </tr>
+  <tr>
+    <td>Лл</td>
+    <td>эл<br/>[el]</td>
+    <td>l</td>
+    <td><b>l</b>amp</td>
+    <td><b>л</b>и<br/><i>[li]</i></td>
+  </tr>
+  <tr>
+    <td>Мм</td>
+    <td>эм<br/>[em]</td>
+    <td>m</td>
+    <td><b>m</b>ap</td>
+    <td><b>м</b>еч<br/><i>[mech]</i></td>
+  </tr>
+  <tr>
+    <td>Нн</td>
+    <td>эн<br/>[en]</td>
+    <td>n</td>
+    <td><b>n</b>ot</td>
+    <td><b>н</b>о<br/><i>[no]</i></td>
+  </tr>
+  <tr>
+    <td>Оо</td>
+    <td>о<br/>[o]</td>
+    <td>o</td>
+    <td>m<b>o</b>re</td>
+    <td><b>о</b>н<br/><i>[on]</i></td>
+  </tr>
+  <tr>
+    <td>Пп</td>
+    <td>пэ<br/>[pe]</td>
+    <td>p</td>
+    <td><b>p</b>et</td>
+    <td><b>п</b>од<br/><i>[pot]</i></td>
+  </tr>
+  <tr>
+    <td>Рр</td>
+    <td>эр<br/>[er]</td>
+    <td>r</td>
+    <td><i>Rolled r</i></td>
+    <td><b>р</b>ека<br/><i>[reka]</i></td>
+  </tr>
+  <tr>
+    <td>Сс</td>
+    <td>эс<br/>[es]</td>
+    <td>s</td>
+    <td><b>s</b>ee</td>
+    <td>е<b>с</b>ли<br/><i>[yesli]</i></td>
+  </tr>
+  <tr>
+    <td>Тт</td>
+    <td>тэ<br/>[te]</td>
+    <td>t</td>
+    <td><b>t</b>ool</td>
+    <td><b>т</b>о<b>т</b><br/><i>[tot]</i></td>
+  </tr>
+  <tr>
+    <td>Уу</td>
+    <td>у<br/>[oo]</td>
+    <td>u&ast;</td>
+    <td>b<b>oo</b>t</td>
+    <td><b>у</b>же<br/><i>[oozhe]</i></td>
+  </tr>
+  <tr>
+    <td>Фф</td>
+    <td>эф<br/>[ef]</td>
+    <td>f</td>
+    <td><b>f</b>ace</td>
+    <td><b>ф</b>орма<br/><i>[forma]</i></td>
+  </tr>
+  <tr>
+    <td>Хх</td>
+    <td>ха<br/>[ha]</td>
+    <td>kh&ast;</td>
+    <td>lo<b>ch</b></td>
+    <td>ду<b>х</b><br/><i>[dookh]</i></td>
+  </tr>
+  <tr>
+    <td>Цц</td>
+    <td>цэ<br/>[tsa]</td>
+    <td>ts</td>
+    <td>si<b>ts</b></td>
+    <td>коне<b>ц</b><br/><i>[konets]</i></td>
+  </tr>
+  <tr>
+    <td>Чч</td>
+    <td>че<br/>[che]</td>
+    <td>ch</td>
+    <td><b>ch</b>ip</td>
+    <td><b>ч</b>ас<br/><i>[chas]</i></td>
+  </tr>
+  <tr>
+    <td>Шш</td>
+    <td>ша<br/>[sha]</td>
+    <td>sh</td>
+    <td><b>sh</b>arp</td>
+    <td>ва<b>ш</b><br/><i>[vash]</i></td>
+  </tr>
+  <tr>
+    <td>Щщ</td>
+    <td>Ща<br/>[shsha]</td>
+    <td>shch&ast;</td>
+    <td><b>sh</b>eer</td>
+    <td><b>щ</b>ека<br/><i>[shcheka]</i></td>
+  </tr>
+  <tr>
+    <td>Ъъ</td>
+    <td>твёрдый знак<br/>[tvyór-di znak]<br/>('hard sign')</td>
+    <td>"&ast;</td>
+    <td><i>Silent; prevents palatalization of the preceding consonant</i></td>
+    <td>об<b>ъ</b>ект<br/><i>[obyekt]</i></td>
+  </tr>
+  <tr>
+    <td>Ыы</td>
+    <td>ы<br/>[i]</td>
+    <td>y&ast;</td>
+    <td>ros<b>e</b>s</td>
+    <td>т<b>ы</b><br/><i>[ti]</i></td>
+  </tr>
+  <tr>
+    <td>Ьь</td>
+    <td>мягкий знак<br/>[myáh-kee znak]<br/>('soft sign')</td>
+    <td>'&ast;</td>
+    <td><i>Silent; palatalizes the preceding consonant (if it is phonologically possible)</i></td>
+    <td>вес<b>ь</b><br/><i>[vyes]</i></td>
+  </tr>
+  <tr>
+    <td>Ээ</td>
+    <td>э<br/>[e]</td>
+    <td>e</td>
+    <td>m<b>e</b>t</td>
+    <td><b>э</b>то<br/><i>[eto]</i></td>
+  </tr>
+  <tr>
+    <td>Юю</td>
+    <td>ю<br/>[yoo]</td>
+    <td>iu&ast;</td>
+    <td><b>u</b>se</td>
+    <td><b>ю</b>г<br/><i>[yook]</i></td>
+  </tr>
+  <tr>
+    <td>Яя</td>
+    <td>я<br/>[ya]</td>
+    <td>ia&ast;</td>
+    <td><b>ya</b>rd</td>
+    <td>р<b>я</b>д<br/><i>[ryat]</i></td>
+  </tr>
+</table>
+
+\* Indicates a transliteration that is either not obvious or which is transliterated differently in other systems.
