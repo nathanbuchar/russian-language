@@ -1,5 +1,7 @@
 # Verb Conjugation
 
+Russian verb conjugation in the present tense.
+
 **Contents**
 
 * [Type 1](#type-1)
