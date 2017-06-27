@@ -1,4 +1,9 @@
-<b>Notice:</b> The contents of some of these documents were derived from [Dr. Curtis Ford Jr.'s](mailto:cford@sc.edu) instructional podcasts on the Russian language.
+# Russian Language Notes
+
+
+## Disclosure 
+
+The contents of some of these documents were derived from [Dr. Curtis Ford Jr.'s excellent instructional podcasts on the Russian language](https://www.youtube.com/user/russiangrammar/).
 
 The notes in these documents are for my own private study. Pursuant to the acceptable use clause, the below copyright and license are to be included.
 
