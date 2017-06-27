@@ -278,7 +278,7 @@ One other thing worth noticing about the *и-conjugation* verbs is that the cons
 Here you see that the **д** becomes **ж**, but only in the **я** form of the verb. You may remember that consonants can change in the *е/ё-conjugation too* but in those verbs it will typically change in all of the forms and not just the **я** form. 
 
 
-# In summary
+## In Summary
 
 * 2 conjugations: *е/ё-conjugation* and *и-conjugation*
 * Conjugations **cannot** be predicted from the infinitive.
