@@ -100,6 +100,6 @@ Lastly, it should be noted that in Russian, there actually is a verb "to have", 
 
 ***
 
-**Sources**
+**Works Cited**
 
-<sup><b>1</b></sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2013, June 3\). Possession and Ownership in Russian \[Video file\]. Retrieved from https://www.youtube.com/watch?v=kicj2aqnKzk
+1. Ford, Curtis, Jr. \[Russian grammar], University of South Carolina. [“Possession and Ownership in Russian.”](https://www.youtube.com/watch?v=xmr2YPkhTVo) Online video clip. <i>YouTube</i>. YouTube, 3 June 2013. Web. 27 June 2017.

@@ -115,8 +115,8 @@ A **ю** or **я** may not immediately follow **к**, **г**, **х**, **ж**, **
 
 ***
 
-**Sources**
+**Works Cited**
 
-* <sup>1</sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2013, September 22\). The Letters of the Three Spelling Rules of Russian \[Video file\]. Retrieved from https://www.youtube.com/watch?v=Yp4VoIQ98pg
+1. Ford, Curtis, Jr. \[Russian grammar], University of South Carolina. [“The Letters of the Three Spelling Rules of Russian.”](https://www.youtube.com/watch?v=Yp4VoIQ98pg) Online video clip. <i>YouTube</i>. YouTube, 22 September 2013. Web. 27 June 2017.
 
-* <sup>2</sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2015, September 16\). Adjectives and Spelling Rules \[Video file\]. Retrieved from https://www.youtube.com/watch?v=TSD18CufsEw
+2. Ford, Curtis, Jr. \[Russian grammar], University of South Carolina. [“Adjectives and Spelling Rules.”](https://www.youtube.com/watch?v=TSD18CufsEw) Online video clip. <i>YouTube</i>. YouTube, 16 September 2015. Web. 27 June 2017.
