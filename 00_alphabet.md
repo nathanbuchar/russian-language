@@ -202,7 +202,7 @@
     <td>твёрдый знак<br/>[tvyór-di znak]<br/>('hard sign')</td>
     <td>"<sup>†</sup></td>
     <td><i>Hard sign<sup>††</sup></i></td>
-    <td>об<b>ъ</b>ект<br/>[obyekt]</td>
+    <td>об<b>ъ</b>ект<br/>[ob"yekt]</td>
   </tr>
   <tr>
     <td>Ыы</td>
@@ -216,7 +216,7 @@
     <td>мягкий знак<br/>[myáh-kee znak]<br/>('soft sign')</td>
     <td>'<sup>†</sup></td>
     <td><i>Soft sign<sup>†††</sup></i></td>
-    <td>вес<b>ь</b><br/>[vyes]</td>
+    <td>вес<b>ь</b><br/>[vyes']</td>
   </tr>
   <tr>
     <td>Ээ</td>
