@@ -1,4 +1,4 @@
-# Ownership and Possession in Russian
+# Possession and Ownership in Russian
 
 The Russian language doesn't have the verb "to have"—at least not in the conventional English sense. Instead, we use a different construction. Take the following for example:
 
@@ -56,7 +56,7 @@ Here are just a few more examples:
 
 * **У тебя́ есть да́ча?**
 
-    \- *Do you have a dacha (country house)?*
+    \- *Do you have a dacha (summer home)?*
 
     **Есть.**
 
