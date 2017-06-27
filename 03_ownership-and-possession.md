@@ -1,14 +1,4 @@
-# Ownership and Possession
-
-**Contents**
-
-* [Есть](#Есть)
-* [Иметь](#Иметь)
-
-
-***
-
-## Есть
+# Ownership and Possession in Russian
 
 The Russian language doesn't have the verb "to have"—at least not in the conventional English sense. Instead, we use a different construction. Take the following for example:
 
@@ -24,37 +14,37 @@ This construction may sound odd to English speakers, but there are actually quit
 
 Let's take a look at a few more examples:
 
-- **У тебя́ есть газе́та?**
+* **У тебя́ есть газе́та?**
 
      \- *Do you have a newspaper?*
 
-- **У меня́ есть докуме́нты.**
+* **У меня́ есть докуме́нты.**
 
      \- *I have documents.*
 
-- **У вас есть чемода́н?**
+* **У вас есть чемода́н?**
 
      \- *Do you have a suitcase?*
 
-- **У меня́ есть ви́за.**
+* **У меня́ есть ви́за.**
 
      \- *I have a visa*
 
-- **У тебя́ есть дочь?**
+* **У тебя́ есть дочь?**
 
      \- *Do you have a daughter?*
 
-- **У вас есть пода́рки?**
+* **У вас есть пода́рки?**
 
      \- *Do you have any gifts?*
 
 Note in the above examples how **есть** never changes its form. Here are a few more examples:
 
-- **Како́й у тебя́ па́спорт?**
+* **Како́й у тебя́ па́спорт?**
 
     \- *What kind of passport do you have?*
 
-- **У меня́ кана́дский па́спорт.**
+* **У меня́ кана́дский па́спорт.**
 
     \- *I have a Canadian passport.*
 
@@ -64,7 +54,7 @@ This concept is the same for parts of the body as well. For example, since we ca
 
 Here are just a few more examples:
 
-- **У тебя́ есть да́ча?**
+* **У тебя́ есть да́ча?**
 
     \- *Do you have a dacha (country house)?*
 
@@ -72,7 +62,7 @@ Here are just a few more examples:
 
     \- *Yes, I do.*
 
-- **У тебя́ больша́я да́ча?**
+* **У тебя́ больша́я да́ча?**
 
     \- *Is your dacha big?*
 
@@ -82,27 +72,34 @@ Here are just a few more examples:
 
 Additionally, to indicate possession in the negative, replace the word **есть** with **нет**.
 
-- **У меня́ нет па́спорт.**
+* **У меня́ нет па́спорт.**
 
     \- *I do not have a passport.*
 
-- **У меня́ нет ви́за.**
+* **У меня́ нет ви́за.**
 
     \- *I do not have a visa.*
 
-- **У меня́ нет до́чери.**
+* **У меня́ нет до́чери.**
 
     \- *I do not have a daughter.*
 
-
-## Иметь
-
 Lastly, it should be noted that in Russian, there actually is a verb "to have", **име́ть**, however it's used most often with abstractions:
 
-- **иметь право**
+* **иметь право**
 
     \- *to have the right*
 
-- **иметь возможность**
+* **иметь возможность**
 
     \- *to have the opportunity*
+
+
+<br/>
+<br/>
+
+***
+
+**Sources**
+
+<sup><b>1</b></sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2013, June 3\). Possession and Ownership in Russian \[Video file\]. Retrieved from https://www.youtube.com/watch?v=kicj2aqnKzk

@@ -1,6 +1,4 @@
-# Spelling Rules
-
-In Russian, there are a number of important spelling rules that one should do their best to not violate. It is important to note that these rules trump all other spelling issues.
+# Russian Spelling Rules
 
 **Contents**
 
@@ -10,6 +8,9 @@ In Russian, there are a number of important spelling rules that one should do th
 
 
 ***
+
+
+In Russian, there are a number of important spelling rules that one should do their best to not violate. It is important to note that these rules trump all other spelling issues.
 
 
 ## 5-Letter Spelling Rule
@@ -72,3 +73,15 @@ A **ю** or **я** may not immediately follow **к**, **г**, **х**, **ж**, **
     Here, the ending of the **я** form of the verb **учиться** starts with **-у́**, whereas typically the ending of the **я** form for this verb pattern would start with **-ю́**.
 
     However, because the 8-Letter spelling rule states that **ю** may not follow the letter **ч**, it has been swapped with **у**.
+
+
+<br/>
+<br/>
+
+***
+
+**Sources**
+
+<sup><b>1</b></sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2013, September 22\). The Letters of the Three Spelling Rules of Russian \[Video file\]. Retrieved from https://www.youtube.com/watch?v=Yp4VoIQ98pg
+
+<sup><b>2</b></sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2015, September 16\). Adjectives and Spelling Rules \[Video file\]. Retrieved from https://www.youtube.com/watch?v=TSD18CufsEw

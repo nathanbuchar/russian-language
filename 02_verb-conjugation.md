@@ -1,5 +1,15 @@
 # Russian Verb Conjugation
 
+**Contents**
+
+* [I Conjugation](#I-Conjugation)
+* [II Conjugation](#II-Conjugation)
+* [Summary](#Summary)
+
+
+***
+
+
 If you've taken Spanish or German or maybe another language, you may be familiar with verb conjugations. In English, verbs don't change much in the present tense. Even though we do say "he read**s**" as opposed to "I read" or "you read", in many languages you have a different form for each person, and you'll see this is the case in Russian too.
 
 There are two types of verbs and two types of conjugations in Russian, and they're grouped according to the endings they take. They're usually called the *I conjugation*, or the *е/ё-conjugation*, and the *II conjugation*, or the *и-conjugation*. Those names come from the characteristic vowel sound that you'll hear with many forms. The *е/ё-conjugation* uses a **е** or a **ё**, and the *и-conjugation*—ostensibly enough—uses **и**.
@@ -278,7 +288,7 @@ One other thing worth noticing about the *и-conjugation* verbs is that the cons
 Here you see that the **д** becomes **ж**, but only in the **я** form of the verb. You may remember that consonants can change in the *е/ё-conjugation too* but in those verbs it will typically change in all of the forms and not just the **я** form. 
 
 
-## In Summary
+## Summary
 
 * 2 conjugations: *е/ё-conjugation* and *и-conjugation*
 * Conjugations **cannot** be predicted from the infinitive.
