@@ -324,6 +324,6 @@ Here you see that the **д** becomes **ж**, but only in the **я** form of the
 
 **Sources**
 
-<sup><b>1</b></sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2013, March 27\). Russian Verbs: First (е/ё) Conjugation \[Video file\]. Retrieved from https://www.youtube.com/watch?v=xmr2YPkhTVo
+* <sup>1</sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2013, March 27\). Russian Verbs: First (е/ё) Conjugation \[Video file\]. Retrieved from https://www.youtube.com/watch?v=xmr2YPkhTVo
 
-<sup><b>2</b></sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2013, March 27\). Russian Verbs: Second (-и-) Conjugation \[Video file\]. Retrieved from https://www.youtube.com/watch?v=YPwb4sNnkLI
+* <sup>2</sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2013, March 27\). Russian Verbs: Second (-и-) Conjugation \[Video file\]. Retrieved from https://www.youtube.com/watch?v=YPwb4sNnkLI

@@ -19,10 +19,23 @@ An unstressed **о** may not immediately follow **ж**, **ш**, **щ**, **ч**, 
 
 **Summary**
 
-| If… | Follows… | Then… |
-| :-- | :----------- | :---- |
-| **о** | **ж**, **ш**, **щ**, **ч**, or **ц** | **е** |
-| **ó** | **ж**, **ш**, **щ**, **ч**, or **ц** | **ó** |
+<table>
+  <tr>
+    <th>If…</th>
+    <th>Follows…</th>
+    <th>Then…</th>
+  </tr>
+  <tr>
+    <td><b>о</b></td>
+    <td><b>ж</b>, <b>ш</b>, <b>щ</b>, <b>ч</b>, or <b>ц</b></td>
+    <td><b>е</b></td>
+  </tr>
+  <tr>
+    <td><b>о́</b></td>
+    <td><b>ж</b>, <b>ш</b>, <b>щ</b>, <b>ч</b>, or <b>ц</b></td>
+    <td><b>о́</b></td>
+  </tr>
+</table>
 
 **Examples**
 
@@ -41,9 +54,18 @@ A **ы** may not immediately follow **к**, **г**, **х**, **ж**, **ш**, **щ
 
 **Summary**
 
-| If… | Follows… | Then… |
-| :-- | :----------- | :---- |
-| **ы** | **к**, **г**, **х**, **ж**, **ш**, **щ**, or **ч** | **и** |
+<table>
+  <tr>
+    <th>If…</th>
+    <th>Follows…</th>
+    <th>Then…</th>
+  </tr>
+  <tr>
+    <td><b>ы</b></td>
+    <td><b>к</b>, <b>г</b>, <b>х</b>, <b>ж</b>, <b>ш</b>, <b>щ</b>, or <b>ч</b></td>
+    <td><b>и</b></td>
+  </tr>
+</table>
 
 **Examples**
 
@@ -61,16 +83,29 @@ A **ю** or **я** may not immediately follow **к**, **г**, **х**, **ж**, **
 
 **Summary**
 
-| If… | Follows… | Then… |
-| :-- | :----------- | :---- |
-| **ю** | **к**, **г**, **х**, **ж**, **ш**, **щ**, **ч**, or **ц** | **у** |
-| **я** | **к**, **г**, **х**, **ж**, **ш**, **щ**, **ч**, or **ц** | **а** |
+<table>
+  <tr>
+    <th>If…</th>
+    <th>Follows…</th>
+    <th>Then…</th>
+  </tr>
+  <tr>
+    <td><b>ю</b></td>
+    <td><b>к</b>, <b>г</b>, <b>х</b>, <b>ж</b>, <b>ш</b>, <b>щ</b>, <b>ч</b>, or <b>ц</b></td>
+    <td><b>у</b></td>
+  </tr>
+  <tr>
+    <td><b>я</b></td>
+    <td><b>к</b>, <b>г</b>, <b>х</b>, <b>ж</b>, <b>ш</b>, <b>щ</b>, <b>ч</b>, or <b>ц</b></td>
+    <td><b>а</b></td>
+  </tr>
+</table>
 
 **Examples**
 
 * **«я учу́сь»**
 
-    Here, the ending of the **я** form of the verb **учиться** starts with **-у́**, whereas typically the ending of the **я** form for this verb pattern would start with **-ю́**.
+    Here, the ending of the **я** form of the verb **учиться** starts with **-у**, whereas typically the ending of the **я** form for this verb pattern would start with **-ю**.
 
     However, because the 8-Letter spelling rule states that **ю** may not follow the letter **ч**, it has been swapped with **у**.
 
@@ -82,6 +117,6 @@ A **ю** or **я** may not immediately follow **к**, **г**, **х**, **ж**, **
 
 **Sources**
 
-<sup><b>1</b></sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2013, September 22\). The Letters of the Three Spelling Rules of Russian \[Video file\]. Retrieved from https://www.youtube.com/watch?v=Yp4VoIQ98pg
+* <sup>1</sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2013, September 22\). The Letters of the Three Spelling Rules of Russian \[Video file\]. Retrieved from https://www.youtube.com/watch?v=Yp4VoIQ98pg
 
-<sup><b>2</b></sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2015, September 16\). Adjectives and Spelling Rules \[Video file\]. Retrieved from https://www.youtube.com/watch?v=TSD18CufsEw
+* <sup>2</sup> Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. \(2015, September 16\). Adjectives and Spelling Rules \[Video file\]. Retrieved from https://www.youtube.com/watch?v=TSD18CufsEw
