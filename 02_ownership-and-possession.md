@@ -1,5 +1,15 @@
 # Ownership and Possession
 
+**Contents**
+
+* [Есть](#есть)
+* [Иметь](#иметь)
+
+
+***
+
+## Есть
+
 The Russian language doesn't have the verb "to have"—at least not in the conventional English sense. Instead, we use a different construction. Take the following for example:
 
 **У меня́ есть па́спорт.**
@@ -70,20 +80,24 @@ Here are just a few more examples:
 
     \- *Yes, it is.*
 
-Lastly, to indicative possession in the negative, replace the word **есть** with **нет**.
+Additionally, to indicate possession in the negative, replace the word **есть** with **нет**.
 
 - **У меня́ нет па́спорт.**
 
     \- *I do not have a passport.*
+
+- **У меня́ нет ви́за.**
+
+    \- *I do not have a visa.*
 
 - **У меня́ нет до́чери.**
 
     \- *I do not have a daughter.*
 
 
----
+## Иметь
 
-In Russian, there actually is a verb "to have", **име́ть**, however it's used most often with abstractions:
+Lastly, it should be noted that in Russian, there actually is a verb "to have", **име́ть**, however it's used most often with abstractions:
 
 - **иметь право**
 
