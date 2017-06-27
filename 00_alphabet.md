@@ -246,3 +246,13 @@
 <sup>††</sup> Silent; prevents palatalization of the preceding consonant.
 
 <sup>†††</sup> Silent; palatalizes the preceding consonant (if it is phonologically possible).
+
+
+<br/>
+<br/>
+
+***
+
+**Works Cited**
+
+1. Brown, Nicholas. <i>The New Penguin Russian Course: A Complete Course for Beginners</i>. Penguin, 1996.
