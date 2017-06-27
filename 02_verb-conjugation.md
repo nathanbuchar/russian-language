@@ -2,13 +2,13 @@
 
 **Contents**
 
-* [I Conjugation](#I-Conjugation)
-  * [Common Patterns](#Common-Patterns)
-  * [Stress](#Stress)
-* [II Conjugation](#II-Conjugation)
-  * [Spelling Rules](#Spelling-Rules)
-  * [Changing Stem](#Changing-Stem)
-* [Summary](#Summary)
+* [I Conjugation](#i-conjugation)
+  * [Common Patterns](#common-patterns)
+  * [Stress](#stress)
+* [II Conjugation](#ii-conjugation)
+  * [Spelling Rules](#spelling-rules)
+  * [Changing Stem](#changing-stem)
+* [Summary](#summary)
 
 
 ***
