@@ -133,7 +133,7 @@ But, if the next word begins with a voiced consonant or a vowel, then the  **в*
 
 * **в Омске** – *\[**vó**mske\]*
 
-Some of these consonant clusters can be challenging for native speakers of English, and a pretty common mistake is to always pronounce the preposition **в** voiced, then maybe to put a little vowel sound before the next word so for **«в Сочи»** you get something like *\[vi Sochi\]*. But we want to be sure to avoid this tendency. 
+Some of these consonant clusters can be challenging for native speakers of English, and a pretty common mistake is to always pronounce the preposition **в** as voiced, then maybe to put a little vowel sound before the next word so for **«в Сочи»** you get something like *\[vi Sochi\]*. But we want to be sure to avoid this tendency. 
 
 You may have noticed that it's always the *following* consonant that affects the consonant that precedes it, it's always going backwards. This is also true when the last consonant of a cluster is voiced and the preceding one is voiceless. The voiced quality of the proceeding consonant changes the preceding one to voiced. 
 
@@ -141,7 +141,7 @@ Listen to how the voiceless **с** in this word sounds like a voiced **з**, bec
 
 * **сделать** – *\[**zd**'élat'\]*
 
-And here, the voiceless **т** of the word **вот** becomes voiced when it's followed by **д**, so here is what sounds like two **«д»** sounds.
+And here, the voiceless **т** of the word **вот** becomes voiced when it's followed by **д**, so here is what sounds like two **д** sounds.
 
 * **вот дочь** – *\[vó**dd**óch'\]*
 
@@ -151,7 +151,7 @@ Listen for how the **л** here is voiced even before the voiceless **к**.
 
 * **полка** – *\[pó**lk**a\]*
 
-And these same four letters do not cause a preceding consonant to become voiced. So here, you can hear how the **т** in **«от»** remains voiceless, even before the voiced **м**.
+And these same four letters do not cause a preceding consonant to become voiced. So here, you can hear how the **т** in **от** remains voiceless, even before the voiced **м**.
 
 * **от меня** – *\[a**t m**'enyá\]*
 
