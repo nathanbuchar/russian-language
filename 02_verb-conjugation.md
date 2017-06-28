@@ -225,7 +225,7 @@ This may seem like a lot of rules, but if you get in the habit of learning the *
 
 Also known as the **и-conjugation**.
 
-As a basic example, let's look at the endings for the present tense of the verb **говори́ть** (to speak).
+As a basic example, let's look at the endings for the present tense of the verb **говорить** (to speak).
 
 <table>
   <tr>
@@ -247,10 +247,10 @@ As a basic example, let's look at the endings for the present tense of the verb 
 
 In the **ты**, **он**, **мы**, and **вы** forms, we see the characteristic **и** that gives this conjugation its name.
 
-The **я** form normally ends in **-ю** and the **они** form has the ending **-ят**. When we look a these **я** and **они** forms, there's one other important point to touch on. You'll recall that Russian has [three important spelling rules](./01_spelling-rules.md): the five-letter, the seven-letter, and the eight-letter spelling rules. It's this last rule that will be important here. To recall: we never write **ю** or **я** after **к**, **г**, **х**, **ж**, **ш**, **щ**, **ч**, or **ц**. Instead, we'll use the letters **у** and **а**.
-
 
 ### Spelling Rules
+
+The **я** form normally ends in **-ю** and the **они** form has the ending **-ят**. When we look a these **я** and **они** forms, there's one other important point to touch on. You'll recall that Russian has [three important spelling rules](./01_spelling-rules.md): the five-letter, the seven-letter, and the eight-letter spelling rules. It's this last rule that will be important here. To recall: we never write **ю** or **я** after **к**, **г**, **х**, **ж**, **ш**, **щ**, **ч**, or **ц**. Instead, we'll use the letters **у** and **а**.
 
 The **я** and **они** forms in the *и-conjugation* have the vowels **ю** and **я** respectively, so we'll need to keep this in mind whenever the stem of the verb ends in any of the aforementioned letters.
 
