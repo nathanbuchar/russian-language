@@ -14,14 +14,16 @@
 ***
 
 
-If you've taken Spanish or German or maybe another language, you may be familiar with verb conjugations. In English, verbs don't change much in the present tense. Even though we do say "he read**s**" as opposed to "I read" or "you read", in many languages you have a different form for each person, and you'll see this is the case in Russian too.
+If you've had experience with another a foreign language before, like Spanish or German, you may be familiar with the concept of verb conjugations.
 
-There are two types of verbs and two types of conjugations in Russian, and they're grouped according to the endings they take. They're usually called the *I conjugation*, or the *е/ё-conjugation*, and the *II conjugation*, or the *и-conjugation*. Those names come from the characteristic vowel sound that you'll hear with many forms. The *е/ё-conjugation* uses a **е** or a **ё**, and the *и-conjugation*—ostensibly enough—uses **и**.
+In English, verbs hardly change in the present tense. We do say "he read**s**" as opposed to "I read" or "you read", but in many languages there is a different form of the verb for each person. As such, this is also the case for the Russian language.
+
+There are two distinct types of verbs in Russian which are denoted based on the endings that they take. These different types are typically called the I Conjugation, or the е/ё-conjugation, and the II Conjugation, or и-conjugation. These names come from the characteristic vowel sound that you'll hear in many forms of the verb. The е/ё-conjugation contains a **е** or a **ё**, and the и-conjugation—ostensibly enough—contains **и**.
 
 
 ## I Conjugation
 
-Also known as the **е/ё-conjugation**.
+Also known as the е/ё-conjugation.
 
 As a basic example, let's look at the endings for the present tense of the verb **читать** (to read).
 
@@ -43,7 +45,7 @@ As a basic example, let's look at the endings for the present tense of the verb 
   </tr>
 </table>
 
-You'll notice that the endings are different for every person. There's a **я** form, a **ты** form, etc., and these verb endings change so that the verb agrees with the subject. We can look at these as a stem, **чита-**, to which we can add the appropriate endings.
+You may notice that the endings are different for every person. There's a **я** form, a **ты** form, etc., and these verb endings change so that the verb agrees with the subject. We can look at these as a stem, **чита-**, to which we can add the appropriate endings.
 
 Let's look at a similar verb: **знать** (to know).
 
@@ -65,9 +67,9 @@ Let's look at a similar verb: **знать** (to know).
   </tr>
 </table>
 
-So our stem here is **зна-**. Note that when the stem ends in a vowel, as in these first two verbs, we'll spell the ending of the **я** and the**они** forms with the letter **ю**.
+So our stem here is **зна-**. Note that when the stem ends in a vowel, as in these first two verbs, we'll spell the ending of the **я** and the **они** forms with the letter **ю**.
 
-Let's look at another *е/ё-conjugation* verb: **писать** (to write).
+Let's look at another е/ё-conjugation verb: **писать** (to write).
 
 <table>
   <tr>
@@ -99,14 +101,16 @@ Second, the stem is changing. You'll see that the infinitive had an **с**, but 
 
 But the news is not all bad. Russian verbs are not completely random; There are some patterns and strategies that you can learn that will help, but still you cannot predict which pattern to apply just by looking at the infinitive. So, your best strategy is to learn three forms: The **я** form, the **ты** form, and the **они** form. If you know those, you can predict nearly all other forms of any verb.
 
-Let's take a look at some of the patterns that may help with the *е/ё-conjugation*:
+Let's take a look at some of the patterns that may help with the е/ё-conjugation:
 
-1. **The ты, он, мы, and вы forms always start with either е or ё.**
+1. **Always start with either е or ё.**
 
     The **ты**, **он**, **мы**, and **вы** form endings start with the vowel **е**, or the vowel **ё** if the ending is stressed.
+
 2. **-ю, -ют after vowel stems.**
 
     If the stem ends in a vowel, the **я** form ending is **-ю**, and the **они** form ending is **-ют**. 
+
 3. **-у, -ут after consonant stems.**
 
     If the stem ends in a consonant, the **я** form ending is **-у**, and the **они** form ending is **-ут**.
@@ -135,7 +139,7 @@ Just as with **писать**, the stem here ends in a consonant, so the **я** 
 
 Now, note that there is no **в** in the infinitive. So how do we know that the stem is **жив-**? Because we've gone ahead and learned the **я**, **ты**, and **они** forms separately. Unfortunately there's no magic rule for deriving **жив-** from the infinitive **жить**.
 
-There's one more important pattern here that has to do with the **ты**, **он**, **мы**, and **вы** forms: here we see that if the ending is stressed, then the vowel of the ending is **ё**. And how do you know if the endings are stressed? Well once again,  because you've learned the **я**, **ты**, and **они** forms.
+There's one more important pattern here that has to do with the **ты**, **он**, **мы**, and **вы** forms: here we see that if the ending is stressed, then the vowel of the ending is **ё**. And how do you we if the endings are stressed? Well once again,  because we've learned the **я**, **ты**, and **они** forms.
 
 ### Stress
 
@@ -171,24 +175,24 @@ Although you cannot predict the stress from the infinitive it's true that there 
     With other verbs, stress can always be on the ending, like with **жить**. So it is fixed, and always on the last syllable.
     
     <table>
-      <tr>
-        <td>жив-|<b>у́</b>|</td>
-      </tr>
-      <tr>
-        <td>жив-|<b>ё</b>|шь</td>
-      </tr>
-      <tr>
-        <td>жив-|<b>ё</b>|т</td>
-      </tr>
-      <tr>
-        <td>жив-|<b>ё</b>|м</td>
-      </tr>
-      <tr>
-        <td>жив-|<b>ё</b>|те</td>
-      </tr>
-      <tr>
-        <td>жив-|<b>у́</b>|т</td>
-      </tr>
+        <tr>
+            <td>жив-|<b>у́</b>|</td>
+        </tr>
+        <tr>
+            <td>жив-|<b>ё</b>|шь</td>
+        </tr>
+        <tr>
+            <td>жив-|<b>ё</b>|т</td>
+        </tr>
+        <tr>
+            <td>жив-|<b>ё</b>|м</td>
+        </tr>
+        <tr>
+            <td>жив-|<b>ё</b>|те</td>
+        </tr>
+        <tr>
+            <td>жив-|<b>у́</b>|т</td>
+        </tr>
     </table>
 
 3. **Shifting stress.**
@@ -196,34 +200,34 @@ Although you cannot predict the stress from the infinitive it's true that there 
     Lastly, with **писать** we saw that stress could be mobile and could move around. The good news is that in this category, stress will be on the ending for the **я** form, and one syllable back from the ending for all the other forms. So it's not random—it is consistent for this specific pattern.
 
     <table>
-      <tr>
-        <td>пиш-|<b>у́</b>|</td>
-      </tr>
-      <tr>
-        <td>п|<b>и́</b>|ш-ешь</td>
-      </tr>
-      <tr>
-        <td>п|<b>и́</b>|ш-ет</td>
-      </tr>
-      <tr>
-        <td>п|<b>и́</b>|ш-ем</td>
-      </tr>
-      <tr>
-        <td>п|<b>и́</b>|ш-ете</td>
-      </tr>
-      <tr>
-        <td>п|<b>и́</b>|ш-ут</td>
-      </tr>
+        <tr>
+            <td>пиш-|<b>у́</b>|</td>
+        </tr>
+        <tr>
+            <td>п|<b>и́</b>|ш-ешь</td>
+        </tr>
+        <tr>
+            <td>п|<b>и́</b>|ш-ет</td>
+        </tr>
+        <tr>
+            <td>п|<b>и́</b>|ш-ем</td>
+        </tr>
+        <tr>
+            <td>п|<b>и́</b>|ш-ете</td>
+        </tr>
+        <tr>
+            <td>п|<b>и́</b>|ш-ут</td>
+        </tr>
     </table>
 
-Now, do we really care about stress? And the answer is: absolutely, yes we do. Not just for the sake of good pronunciation, but if you want to tell someone to do something—to use the command form, as you will later learn—you will often need to know the stress pattern to figure out what the command form should look like. So in the long run if you're serious about Russian, be sure to put stress marks on your flash cards, and say your new words aloud as much as possible so you come to know what just sounds right. 
+Now, do we really care about stress? And the answer is: yes, absolutely we do. Not just for the sake of good pronunciation, but if we want to tell someone to do something—to use the command form, as we will later learn—we will often need to know the stress pattern to figure out what the command form should look like. So in the long run if you're serious about Russian, be sure to put stress marks on your flash cards, and say new words aloud as much as possible so you come to know what just sounds right. 
 
 This may seem like a lot of rules, but if you get in the habit of learning the **я**, **ты**, and **они** forms you'll get used to the most common patterns before too long. 
 
 
 ## II Conjugation
 
-Also known as the **и-conjugation**.
+Also known as the и-conjugation.
 
 As a basic example, let's look at the endings for the present tense of the verb **говорить** (to speak).
 
@@ -252,7 +256,7 @@ In the **ты**, **он**, **мы**, and **вы** forms, we see the characterist
 
 The **я** form normally ends in **-ю** and the **они** form has the ending **-ят**. When we look a these **я** and **они** forms, there's one other important point to touch on. You'll recall that Russian has [three important spelling rules](./01_spelling-rules.md): the five-letter, the seven-letter, and the eight-letter spelling rules. It's this last rule that will be important here. To recall: we never write **ю** or **я** after **к**, **г**, **х**, **ж**, **ш**, **щ**, **ч**, or **ц**. Instead, we'll use the letters **у** and **а**.
 
-The **я** and **они** forms in the *и-conjugation* have the vowels **ю** and **я** respectively, so we'll need to keep this in mind whenever the stem of the verb ends in any of the aforementioned letters.
+The **я** and **они** forms in the и-conjugation have the vowels **ю** and **я** respectively, so we'll need to keep this in mind whenever the stem of the verb ends in any of the aforementioned letters.
 
 **Учиться** (to study) is a common word where this comes into play. Let's take a look:
 
@@ -274,12 +278,12 @@ The **я** and **они** forms in the *и-conjugation* have the vowels **ю** a
   </tr>
 </table>
 
-So here because of the last letter of that stem, we spell the **я** form with the letter **у**, and the **они** form with the letter **а**. It doesn't really affect the pronunciation, but you really want to make sure you get the spelling right for these forms.
+So here because of the last letter of that stem, we spell the **я** form with the letter **у**, and the **они** form with the letter **а**. It doesn't really affect the pronunciation, but we really want to make sure we get the spelling right for these forms.
 
 
 ### Changing Stem
 
-One other thing worth noticing about the *и-conjugation* verbs is that the consonant at the end of the stem can often change, but this will happen in the **я** form only. For example, let's look at **видеть** (to see).
+One other thing worth noticing about the и-conjugation verbs is that the consonant at the end of the stem can often change, but this will happen in the **я** form only. For example, let's look at **видеть** (to see).
 
 <table>
   <tr>
@@ -299,13 +303,13 @@ One other thing worth noticing about the *и-conjugation* verbs is that the cons
   </tr>
 </table>
 
-Here you see that the **д** becomes **ж**, but only in the **я** form of the verb. You may remember that consonants can change in the *е/ё-conjugation too* but in those verbs it will typically change in all of the forms and not just the **я** form. 
+Here you see that the **д** becomes **ж**, but only in the **я** form of the verb. You may remember that consonants can change in the е/ё-conjugation too but in those verbs it will typically change in all of the forms and not just the **я** form. 
 
 
 ## Summary
 
-* 2 conjugations: *е/ё-conjugation* and *и-conjugation*
-* Conjugations **cannot** be predicted from the infinitive.
+* 2 conjugations: е/ё-conjugation and и-conjugation
+* Conjugations **cannot** be reliably predicted from the infinitive.
   * Be sure to learn the **я**, **ты**, and **они**  forms.
 * I Conjugation:
   * **Я** form and **они** form end in **ю**/**ют** after vowels, **у**/**ут** after consonants.
@@ -324,6 +328,6 @@ Here you see that the **д** becomes **ж**, but only in the **я** form of the
 
 **Works Cited**
 
-1. Ford, Curtis, Jr. \[Russian grammar], University of South Carolina. [“Russian Verbs: First (е/ё) Conjugation.”](https://www.youtube.com/watch?v=xmr2YPkhTVo) Online video clip. <i>YouTube</i>. YouTube, 27 March 2013. Web. 27 June 2017.
+1. Ford, Curtis, Jr. \[Russian grammar\], University of South Carolina. [“Russian Verbs: First (е/ё) Conjugation.”](https://www.youtube.com/watch?v=xmr2YPkhTVo) Online video clip. <i>YouTube</i>. YouTube, 27 March 2013. Web. 27 June 2017.
 
 2. Ford, Curtis, Jr. \[Russian grammar], University of South Carolina. [“Russian Verbs: Second (-и-) Conjugation.”](https://www.youtube.com/watch?v=YPwb4sNnkLI) Online video clip. <i>YouTube</i>. YouTube, 27 March 2013. Web. 27 June 2017.
