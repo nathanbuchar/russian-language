@@ -18,7 +18,7 @@ To install the Russian Phonetic Keyboard with accents, follow these steps:
 ***
 
 
-To switch between input sources, you may either select your desired keyboard from the input sources menu bar item, or cycle through them by using the following key commands (these can be enabled in **System Preferences » Keyboard » Shortcuts » Input Sources**:
+To switch between input sources, you may either select your desired keyboard from the input sources menu bar item, or cycle through them by using the following key commands (these can be enabled in **System Preferences » Keyboard » Shortcuts » Input Sources**):
 
 <kbd>⌃</kbd><kbd>Space</kbd> - Select the previous input source.
 
