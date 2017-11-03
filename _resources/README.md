@@ -1,4 +1,4 @@
-The following keyboard was bundled by myself with [Ukele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) using the keyboard layout mentioned in [this](https://discussions.apple.com/thread/6586998?start=0&tstart=0) with Apple support thread. This was done in an attempt to properly categorize the keyboard layout as Russian instead of "Other", as well as to add an icon consistent to that of the other Russian keyboards. To my knowledge, no such bundle currently exists.
+The following keyboard was bundled by myself with [Ukele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) using the keyboard layout mentioned in [this](https://discussions.apple.com/thread/6586998?start=0&tstart=0) Apple support thread. This was done in an attempt to properly categorize the keyboard layout as Russian instead of "Other", as well as to add an icon consistent to that of the other Russian keyboards. To my knowledge, no such bundle currently exists.
 
 To install the Russian Phonetic Keyboard with accents, follow these steps:
 
