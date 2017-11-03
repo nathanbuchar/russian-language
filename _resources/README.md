@@ -6,7 +6,7 @@ To install the Russian Phonetic Keyboard with accents, follow these steps:
 
 2. Move the unzipped `.bundle` file to `~/Library/Keyboard Layouts`.
   
-    There are a number of ways to do this. If you do not know how to access your user's Library folder (Mac OS hides it in newer versions), then open finder, click on **Go** in the menu bar, click on **Go to Folder…**, then type `~/Library/Keyboard Layouts` and hit **Go**. This should open up a new—likely empty—Finder window. Drag the keyboard layout bundle into that folder to install it.
+      There are a number of ways to do this. If you do not know how to access your user's Library folder (Mac OS hides it in newer versions), then open finder, click on **Go** in the menu bar, click on **Go to Folder…**, then type `~/Library/Keyboard Layouts` and hit **Go**. This should open up a new—likely empty—Finder window. Drag the keyboard layout bundle into that folder to install it.
     
 3. Open System Preferences and navigate to the **Keyboard** pane. Select the **Input Sources** tab, then hit the **+** button in the lower left corner. A new modal window should appear, and in the list on the left, select **Russian**, and then in the list on the right choose **Russian – Phonetic Accents**. There may be two… I don't know why this is. Just select the first one, then click **Add**.
 
